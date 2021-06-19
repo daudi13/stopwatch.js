@@ -1,0 +1,12 @@
+{
+    "version": 3,
+    "mappings": "AEAA,OAAO,CAAC,oFAAI;AAEZ,AAAA,CAAC,CAAA;EACG,UAAU,EAAE,UAAU;CACzB;;AAED,AAAA,IAAI,CAAC;EACD,MAAM,EAAE,KAAK;EACb,OAAO,EAAE,IAAI;EACb,WAAW,EAAE,MAAM;EACnB,eAAe,EAAE,MAAM;EACvB,MAAM,EAAE,CAAC;EACT,WAAW,EAAE,oBAAoB;CACpC;;AAED,AAAA,IAAI,AAAA,KAAK,CAAC;EACN,UAAU,EDhBA,OAAO;ECiBjB,KAAK,EDhBO,OAAe;CCiB9B",
+    "sources": [
+        "../../sass/main.scss",
+        "../../sass/_variable.scss",
+        "../../sass/_default.scss",
+        "../../sass/_clockswitch.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}
